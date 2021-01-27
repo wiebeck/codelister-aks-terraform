@@ -1,0 +1,4 @@
+prefix = "<yourprefix>"
+github_user = "<github user account where codelists repo can be found>"
+github_repo = "<github repo containing codelists>"
+github_access_token = "<personal github access token>"
